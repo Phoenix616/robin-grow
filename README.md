@@ -8,13 +8,13 @@ Click here: http://tampermonkey.net
 
 Then, click this link to install the script:
 
-https://github.com/vartan/robin-grow/raw/master/robin.user.js
+https://github.com/Phoenix616/robin-grow/raw/master/robin.user.js
 
 If you get a bunch of code instead of it installing, you can copy and paste the code as a new script in greasemonkey/tampermonkey.
 
 You can view the source code or contribute at: 
 
-https://github.com/vartan/robin-grow
+https://github.com/Phoenix616/robin-grow
 
 
 Updates (times Pacific time)
